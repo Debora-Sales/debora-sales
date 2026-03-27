@@ -20,14 +20,14 @@
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/debora-sales?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/debora-sales?color=FF9F1C&style=for-the-badge&labelColor=E67E00&logo=star&label=estrelas&cache_seconds=80"
         />
     </a>
     <a href="https://github.com/debora-sales?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/debora-sales?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://img.shields.io/github/followers/debora-sales?label=Seguidores&style=for-the-badge&color=A855F7&labelColor=8B33F1&logo=github&logoColor=white&cache_seconds=40""
         />
     </a>
 </p>
@@ -74,14 +74,14 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=debora-sales&show_icons=true&theme=cobalt&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats-mauve-tau-80.vercel.app/api?username=debora-sales&show_icons=true&theme=cobalt&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=debora-sales&theme=cobalt&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats-mauve-tau-80.vercel.app/api/top-langs/?username=debora-sales&theme=cobalt&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
