@@ -74,14 +74,14 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-mauve-tau-80.vercel.app/api?username=debora-sales&show_icons=true&theme=cobalt&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats-mauve-tau-80.vercel.app/api?username=debora-sales&show_icons=true&theme=cobalt&include_all_commits=true&locale=pt-br&cache_seconds=61&include_all_commits=true&count_private=true&v=2" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-mauve-tau-80.vercel.app/api/top-langs/?username=debora-sales&theme=cobalt&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats-mauve-tau-80.vercel.app/api/top-langs/?username=debora-sales&theme=cobalt&layout=compact&custom_title=Tecnologias&langs_count=9&count_private=true&cache_seconds=61&v=2" 
   />
 
 </p>
