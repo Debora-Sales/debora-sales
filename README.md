@@ -8,7 +8,8 @@
 
 - 🔭 Estou a procura da minha primeira oportunidade da area de desenvolvimento
 - 🌱 Sou estudante no curso [Técnico em Informática](https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-informatica) pelo [SENAC](https://www.sp.senac.br/senac-jaboticabal)
-- 👯 Na UC de Back-End, estou trabalhando no projeto integrador da minha turma onde faremos um sistema de venda de produtos de limpeza em Python. Na de front-end, acabo de finalizar um site com tema livre sobre One Piece.
+- 👯 Na UC de Back-End, estou trabalhando no projeto integrador da minha turma onde faremos um sistema de venda de produtos de limpeza em Python.
+  Na de front-end, acabo de finalizar um site com tema livre sobre One Piece.
 - 😄 Pronomes: Ela/Dela
 - ⚡ Fato relevante: Possuo Transtorno do Espectro  Autista (TEA)
 </p>
