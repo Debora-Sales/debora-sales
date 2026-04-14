@@ -40,8 +40,8 @@
 ###
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Bootstrap" 
+    title="Bootstrap"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://devicons.railway.com/i/bootstrap.svg" 
@@ -69,6 +69,14 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Javascript" 
+    title="Javascript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/javascript/plain.svg" 
 />
 
 
