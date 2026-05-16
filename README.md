@@ -15,20 +15,28 @@
 </p>
 
 <p align="left">
-    <a href = "mailto:vitoriad23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/d%C3%A9bora-sales-05ab82204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:vitoriad23@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
+        target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/d%C3%A9bora-sales-05ab82204/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+        target="_blank">
+    </a> 
     <a href="https://github.com/Debora-sales?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/debora-sales?color=FF9F1C&style=for-the-badge&labelColor=E67E00&logo=star&label=estrelas&cache_seconds=80"
+          target="_blank"
         />
     </a>
     <a href="https://github.com/debora-sales?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://img.shields.io/github/followers/debora-sales?label=Seguidores&style=for-the-badge&color=A855F7&labelColor=8B33F1&logo=github&logoColor=white&cache_seconds=40""
+            src="https://img.shields.io/github/followers/debora-sales?label=Seguidores&style=for-the-badge&color=A855F7&labelColor=8B33F1&logo=github&logoColor=white&cache_seconds=40"
+          target="_blank"
         />
     </a>
 </p>
@@ -44,7 +52,8 @@
     title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+    target="_blank"
 />
 <img 
     align="left" 
@@ -52,7 +61,8 @@
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+    target="_blank"
 />
 <img 
     align="left" 
@@ -68,7 +78,8 @@
     title="Javascript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/javascript/plain.svg" 
+    src="https://devicon-website.vercel.app/api/javascript/plain.svg"
+    target="_blank"
 />
 <img 
     align="left" 
@@ -76,7 +87,8 @@
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    target="_blank"
 />
 
 
