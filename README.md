@@ -110,7 +110,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-mauve-tau-80.vercel.app/api/top-langs/?username=debora-sales&theme=cobalt&layout=compact&custom_title=Tecnologias&langs_count=9&count_private=true&cache_seconds=61&v=2" 
+      src="https://github-readme-stats-mauve-tau-80.vercel.app/api/top-langs/?username=Debora-Sales&theme=cobalt&layout=compact&custom_title=Tecnologias&langs_count=9&count_private=true&cache_seconds=61&v=2" 
   />
 
 </p>
