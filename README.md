@@ -103,7 +103,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-mauve-tau-80.vercel.app/api?username=debora-sales&show_icons=true&theme=cobalt&locale=pt-br&cache_seconds=61&include_all_commits=true&count_private=true&v=2" 
+    src="https://github-readme-stats-mauve-tau-80.vercel.app/api?username=Debora-Sales&show_icons=true&theme=cobalt&locale=pt-br&cache_seconds=61&include_all_commits=true&count_private=true&v=2" 
   />
 
 <img 
