@@ -27,15 +27,15 @@
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/debora-sales?color=FF9F1C&style=for-the-badge&labelColor=E67E00&logo=star&label=estrelas&cache_seconds=80"
+            src="https://custom-icon-badges.demolab.com/github/stars/Debora-Sales?color=FF9F1C&style=for-the-badge&labelColor=E67E00&logo=star&label=estrelas&cache_seconds=80"
           target="_blank"
         />
     </a>
-    <a href="https://github.com/debora-sales?tab=followers">
+    <a href="https://github.com/Debora-Sales?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://img.shields.io/github/followers/debora-sales?label=Seguidores&style=for-the-badge&color=A855F7&labelColor=8B33F1&logo=github&logoColor=white&cache_seconds=40"
+            src="https://img.shields.io/github/followers/Debora-Sales?label=Seguidores&style=for-the-badge&color=A855F7&labelColor=8B33F1&logo=github&logoColor=white&cache_seconds=40"
           target="_blank"
         />
     </a>
